@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		D99282DF1D0800F50066629C /* contato.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contato.html; sourceTree = "<group>"; };
+		D99282E01D0800F50066629C /* css.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = css.css; sourceTree = "<group>"; };
+		D99282E11D0800F50066629C /* galeria.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = galeria.html; sourceTree = "<group>"; };
+		D99282E21D0800F50066629C /* história.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "história.html"; sourceTree = "<group>"; };
+		D99282E31D0800F50066629C /* membros.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = membros.html; sourceTree = "<group>"; };
+		D99282E41D0800F50066629C /* notícias.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "notícias.html"; sourceTree = "<group>"; };
+		D99282E51D0800F50066629C /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
+		D9DF27131CC18128007A5E84 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		D9DF270C1CC18103007A5E84 = {
+			isa = PBXGroup;
+			children = (
+				D99282DF1D0800F50066629C /* contato.html */,
+				D99282E01D0800F50066629C /* css.css */,
+				D99282E11D0800F50066629C /* galeria.html */,
+				D99282E21D0800F50066629C /* história.html */,
+				D99282E31D0800F50066629C /* membros.html */,
+				D99282E41D0800F50066629C /* notícias.html */,
+				D99282E51D0800F50066629C /* script.js */,
+				D9DF27131CC18128007A5E84 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D9DF270D1CC18103007A5E84 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = D9DF27101CC18103007A5E84 /* Build configuration list for PBXProject "Carreta do sucesso" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D9DF270C1CC18103007A5E84;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D9DF27111CC18103007A5E84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D9DF27121CC18103007A5E84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D9DF27101CC18103007A5E84 /* Build configuration list for PBXProject "Carreta do sucesso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9DF27111CC18103007A5E84 /* Debug */,
+				D9DF27121CC18103007A5E84 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D9DF270D1CC18103007A5E84 /* Project object */;
+}
